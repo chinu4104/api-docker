@@ -4,7 +4,7 @@ services:
     - docker
 
 before_install:
-    - docker build -t apiTest .
+    - docker build -t apitest .
 
 script:
-    - docker run apiTest
+    - docker run apitest
