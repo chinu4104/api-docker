@@ -1,0 +1,15 @@
+{
+  "name": "api-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/newman run APITestautomation.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^4.5.6"
+  }
+}
