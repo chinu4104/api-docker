@@ -6,7 +6,7 @@
 git clone git@github.com:chinu4104/api-docker.git
 ```
 
-## Built With
+## Tech stack
 
 * [Postman](https://www.getpostman.com/) - API test automation tool used
 * [Newman](https://www.npmjs.com/package/newman) - Postman CLI
