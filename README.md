@@ -1,4 +1,4 @@
-# Postman api testing using docker
+# Postman-API test automation using docker
 
 ## To clone this project
 
